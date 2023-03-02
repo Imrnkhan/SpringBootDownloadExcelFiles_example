@@ -1,6 +1,6 @@
 # SpringBootDownloadExcelFiles_example
 
-<h1>Spring Boot Download Excel Files example</h1>
+<!-- <h1>Spring Boot Download Excel Files example</h1> -->
 
 
 Spring Boot Rest API: Download Excel File.
@@ -24,6 +24,9 @@ First of add on some Item on database and getting response after that on Excel s
 
 http://localhost:8088/api/excel/download
 
+
+Direct use on browser this way
+![image](https://user-images.githubusercontent.com/95843558/222297891-deb56b0f-ad63-416f-8c20-56e0e0d11cbb.png)
 
 
 
