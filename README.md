@@ -25,12 +25,16 @@ First of add on some Item on database and getting response after that on Excel s
 http://localhost:8088/api/excel/download
 
 
-![img.png](img.png)
 
 
 
-![img_1.png](img_1.png)
 
+![image](https://user-images.githubusercontent.com/95843558/222297578-e3415492-b42e-49e0-b474-4de58f0ba3d9.png)
+
+
+![image](https://user-images.githubusercontent.com/95843558/222297604-d2085c6a-920a-4564-98d4-a7d005a82578.png)
+
+http://localhost:8088/api/excel/download
 
 
 
